@@ -1,7 +1,7 @@
 # Expenses
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/DaniloBitencourt/projetos_perguntas)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/DaniloBitencourt/projetos_perguntas)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/DaniloBitencourt/expenses)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/DaniloBitencourt/expenses)
 
 Um aplicativo básico de gerenciamento financeiro desenvolvido com Flutter.
 
